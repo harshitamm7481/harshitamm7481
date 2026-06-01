@@ -9,7 +9,7 @@
 ### A lil about me!!!!!
 
 * 🎓 Computer Engineering Student
-*  🌐 Interested in Software & Web Development
+* 🌐 Interested in Software & Web Development
 * 💻 Learning by Building
 * 🧩 Currently Learning Git, GitHub & DSA
 * ☁️ Exploring AWS & Cloud Computing
