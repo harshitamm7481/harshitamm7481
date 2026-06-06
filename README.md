@@ -87,7 +87,9 @@ Building fundamentals, improving problem-solving skills, and creating projects t
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshitamm7481/harshitamm7481/output/github-snake.svg" alt="Snake animation" />
 </p>
+
 ---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -105,7 +107,9 @@ Building fundamentals, improving problem-solving skills, and creating projects t
 </a>
 
 </p>
+
 ---
+
 ### 👀 Profile Views
 
 <p align="center">
