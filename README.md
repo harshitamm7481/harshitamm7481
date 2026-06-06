@@ -77,17 +77,56 @@ Building fundamentals, improving problem-solving skills, and creating projects t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitamm7481&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshitamm7481&show_icons=true&theme=transparent" />
 </p>
 
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitamm7481&theme=transparent&hide_border=true" />
+</p>
+
+---
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitamm7481&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/harshitamm7481">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshita-mohapatra-387987372">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshitamm7481@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamm7481&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamm7481&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
+---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshitamm7481/harshitamm7481/output/github-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 > *Mindset is key — you're never too old to learn, never too inexperienced to start, and never too late to grow.*
