@@ -73,13 +73,6 @@ Building fundamentals, improving problem-solving skills, and creating projects t
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,git,github,vscode" />
 </p>
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshitamm7481&show_icons=true&theme=transparent" />
-</p>
-
 ---
 
 ### 🔥 Contribution Streak
@@ -89,12 +82,11 @@ Building fundamentals, improving problem-solving skills, and creating projects t
 </p>
 
 ---
-### 👀 Profile Views
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitamm7481&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/harshitamm7481/harshitamm7481/output/github-snake.svg" alt="Snake animation" />
 </p>
-
 ---
 ### 🌐 Connect With Me
 
@@ -114,19 +106,11 @@ Building fundamentals, improving problem-solving skills, and creating projects t
 
 </p>
 ---
-
-### 📈 Most Used Languages
+### 👀 Profile Views
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamm7481&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=harshitamm7481&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshitamm7481/harshitamm7481/output/github-snake.svg" alt="Snake animation" />
-</p>
----
-
 > *Mindset is key — you're never too old to learn, never too inexperienced to start, and never too late to grow.*
