@@ -48,7 +48,7 @@ Currently building a strong foundation in programming, web development, and clou
 ---
 ### ✨ Projects (in order of making)
 
-<p>Arduino-Overcurrent-Protection-System (MADE FOR SEM2 QMSC::PPT)</p>
+* Arduino-Overcurrent-Protection-System (MADE FOR SEM2 QMSC::PPT)
 <p>Expense-Tracker (MADE FOR SEM2 OOP::PPT,CPP)</p>
 <p>Bakery-Website (MADE FOR SEM2 BWD::HTML,CSS)</p>
 <p>Portfolio-multipage-website-working (ON COMPLETION OF FY::HTML,CSS)</p>
